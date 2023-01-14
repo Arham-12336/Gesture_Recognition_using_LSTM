@@ -19,7 +19,7 @@ LSTMs have an edge over conventional feed-forward neural networks and RNN in man
 ### ✅ Prerequisites: 
 - [ ] [Python](https://www.python.org/downloads/)
 - [ ] [Jupyter Notebook](https://jupyter.org/)
-- [ ] [Webcame]()
+- [ ] [Webcam]()
 
 ###  🔎 Features:
 
