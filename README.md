@@ -30,7 +30,7 @@ LSTMs have an edge over conventional feed-forward neural networks and RNN in man
 ## 🤝 Contributors
 [Huzaifa](https://github.com/Huzaifa246) 
 
-[Usman Yousuf]()
+[Usman Yousuf](https://github.com/usmanyousuf98)
 
 
 Please give a rating.
